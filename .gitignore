@@ -1,0 +1,23 @@
+# Ignore Python bytecode files
+__pycache__/
+*.py[cod]
+.DS_Store
+
+# Ignore virtual environment
+venv/
+
+# Ignore local configuration files
+*.local
+*.env
+
+# Ignore IDE/editor specific files
+.idea/
+*.swp
+*.swo
+
+# Ignore other files
+*.log
+
+# Ignore requirements.txt (if you don't want to track it)
+# requirements.txt
+
